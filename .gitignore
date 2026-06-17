@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Secrets — never commit your real keys
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
