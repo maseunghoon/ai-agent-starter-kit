@@ -8,6 +8,10 @@ running in minutes — then customize it into your own product.
 > calling, and per-session memory. Need **RAG, Docker, deployment configs, and
 > production-grade swappable stores**? Grab the **[Pro edition](#-upgrade-to-pro)**.
 
+### ▶ [Watch the 60-second demo](https://youtu.be/iHbAgDCV8wY)
+
+See the agent call tools, remember context, and run RAG — live.
+
 ---
 
 ## ⭐ Like it? Star the repo and upgrade to Pro
