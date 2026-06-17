@@ -207,7 +207,9 @@ The **Pro edition** turns this starter into a production-ready service:
 - 🔌 **Swappable backends** — clean interfaces to move to Redis / Qdrant
 - 📦 **Commercial license** + **lifetime updates** + priority support
 
-👉 **Get the Pro edition here:** _<add your Gumroad / Lemon Squeezy link>_
+### [👉 Get the Pro edition — $79 on Gumroad](https://mashroombiz.gumroad.com/l/kcdynl)
+
+> 30-day money-back guarantee. Commercial license + lifetime updates included.
 
 ---
 
